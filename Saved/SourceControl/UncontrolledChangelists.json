@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/ProyectoRunner/Content/RunnerGame/BluePrints/BP_RunnerGameMode.uasset",
+				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/ProyectoRunner/Content/RunnerGame/Maps/RunnerGameMap.umap",
+				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/ProyectoRunner/Content/RunnerGame/BluePrints/BP_RunnerGameCharacter.uasset",
+				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/Unidad 6/ProyectoRunner/Content/RunnerGame/Maps/NewMap.umap",
+				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/Unidad 6/ProyectoRunner/Content/RunnerGame/Maps/RunnerGameMap.umap",
+				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/Unidad 6/ProyectoRunner/Content/RunnerGame/BluePrints/BP_RunnerGameMode.uasset",
+				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/Unidad 6/ProyectoRunner/Content/RunnerGame/BluePrints/BP_RunnerGameCharacter.uasset",
+				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/Unidad 6/ProyectoRunner/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/Unidad 6/ProyectoRunner/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/Unidad 6/ProyectoRunner/Content/RunnerGame/BluePrints/BP_RunnerGame1.uasset",
+				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/Unidad 6/ProyectoRunner/Content/RunnerGame/IMC_Default1.uasset"
+			]
+		}
+	]
+}
