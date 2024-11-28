@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/RunnerProyect/RunnerProyect/Content/RunnerGame/BluePrints/BP_RunnerGameCharacter.uasset",
+				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/RunnerProyect/RunnerProyect/Content/RunnerGame/BluePrints/BP_Item.uasset",
+				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/RunnerProyect/RunnerProyect/Content/RunnerGame/Maps/RunnerGameMap.umap",
 				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/ProyectoRunner/Content/RunnerGame/BluePrints/BP_RunnerGameMode.uasset",
 				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/ProyectoRunner/Content/RunnerGame/Maps/RunnerGameMap.umap",
 				"C:/Users/Enzo/Desktop/Enzo/Facultad UNL/Unreal/ProyectoRunner/Content/RunnerGame/BluePrints/BP_RunnerGameCharacter.uasset",
